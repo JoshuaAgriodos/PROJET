@@ -1,0 +1,5 @@
+LISTE DU SITE:
+
+-Barre de Search (milieu-haut)
+-connexion (haut-droite)
+-Bouton Menu (haut-gauche)
